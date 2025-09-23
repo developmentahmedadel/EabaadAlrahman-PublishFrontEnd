@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1758646459786,
-  "index": "/index.csr.html",
+  "timestamp": 1758647460658,
+  "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -68,7 +68,8 @@
         "/chunk-ZDDZZI4Y.js",
         "/chunk-ZEZBUIIC.js",
         "/favicon.ico",
-        "/main-UYLHCWJZ.js",
+        "/index.html",
+        "/main-RANHFALN.js",
         "/manifest.webmanifest",
         "/polyfills-5CFQRCPP.js",
         "/scripts-7VJGCRLQ.js",
@@ -352,7 +353,8 @@
     "/chunk-ZDDZZI4Y.js": "31bc6cda3e04e259367102761910361ccbde97cb",
     "/chunk-ZEZBUIIC.js": "b119941a0546b97f96e036ffa7aa5d8f959313b7",
     "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/main-UYLHCWJZ.js": "31cfa0f98b5e27a4662a48a5bcc6c5580910b25f",
+    "/index.html": "75b52ac2c74cdfb770214752c8e0a7c1d030da9f",
+    "/main-RANHFALN.js": "4dedcf3f33cc0d859b0371fe9a105425c84f72c2",
     "/manifest.webmanifest": "fd3b03ae9f20ec8a39f103efe44505d7e9e3554f",
     "/media/Inter-italic.var-SWFAXF2C.woff2": "6f20a046917bf86d4b6cc29c4e2515bd64d2cb9b",
     "/media/Inter-roman.var-WIJJYAE4.woff2": "7a2602d2ebb08ce895e33addb6fe595f1029431e",
