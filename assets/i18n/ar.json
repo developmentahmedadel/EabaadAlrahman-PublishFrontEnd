@@ -1,0 +1,85 @@
+{
+  "NameAr":"الاسم بالعربية",
+  "NameEn":"الاسم بالانجليزية",
+  "Code":"الكود",
+  "Are You Sure":"هل انت متاكد",
+  "Created Date":"تاريخ الانشاء",
+  "Created By":"تم الانشاء واسطة",
+  "Last Modified Date":"تاريخ اخر تعديل",
+  "Modify By":"تم التعديل بوسطة",
+  "Modify Count":"عدد مرات التعديل",
+  "Options":"خيارات",
+  "Copy":"نسخ",
+  "Parent":"الحساب الاب",
+  "DocNo":"مسلسل",
+  "DocDate":" التاريخ ",
+  "FromDate":"من تاريخ",
+  "ToDate":"الي تاريخ",
+  "LocalCrAmount":"دائن محلي",
+  "LocalDrAmount":"مدين محلي",
+  "Credit":"دائن",
+  "Depit":"مدين",
+  "CostCenter":{
+    "CostCenter":"مركز التكلفة"
+  },
+  "AccTree":{
+    "AccTree":"شجرة الحسابات",
+    "CostCenter":"مركز التكلفة",
+    "Series":"مسلسل",
+    "DueDate":"تاريخ استحقاق",
+    "OtherData":"بيانات اخري",
+    "Quantity":"كمية"
+  },
+  "Customer":{
+    "Customer":"العملاء",
+    "VatFileNumber":"رقم الملف الضريبي",
+    "VatNumber":"رقم التسجيل الضريبي",
+    "PhoneNumber":"محمول",
+    "TelPhone":"تليفون",
+    "Address":"العنوان",
+    "AccountTree":"الحسابات العامة"
+  },
+  "Supplier":{
+    "Supplier":"الموردين",
+    "VatFileNumber":"رقم الملف الضريبي",
+    "VatNumber":"رقم التسجيل الضريبي",
+    "PhoneNumber":"محمول",
+    "TelPhone":"تليفون",
+    "Address":"العنوان",
+    "AccountTree":"الحسابات العامة"
+  },
+  "AnalysisScreen":{
+    "AnalysisScreen":"الشاشة التحليلية",
+    "AnalyScreen":"الشاشة",
+    "AccountTree":"الحسابات العامة"
+  },
+  "Gl":{
+    "Gl":"قيد يدوي",
+    "Currency":"العملة"
+  },
+  "Currency":{
+    "Currency":"العملة",
+    "ExRate":"معامل التغير"
+  },
+  "Treasury":{
+    "Treasury":"الخزن"
+  },
+  "Bank":{
+    "Bank":"البنك",
+    "Currency":"العملة"
+  },
+   "BankAccount":{
+    "BankAccount":"الحسابات البنكية",
+    "Bank":"البنك",
+    "AccountNumber":"رقم الحساب"
+  },
+   "Expenses":{
+    "Expenses":"المصروفات"
+  },
+  "Revenue":{
+    "Revenue":"الايرادات"
+  },
+  "FixedAsset":{
+    "FixedAsset":"الاصول الثابتة"
+  }
+}

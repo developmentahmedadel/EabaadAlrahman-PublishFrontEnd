@@ -1,0 +1,76 @@
+{
+  "NameAr":"Ar Name",
+  "NameEn":"En Name",
+  "Code":"Code",
+  "LocalCrAmount":"L-Credit",
+  "LocalDrAmount":"L-Depit",
+  "Credit":"Credit",
+  "Depit":"Depit",
+
+
+
+
+  "CostCenter":{
+    "CostCenter":"Cost Center"
+  },
+  "AccTree":{
+    "AccTree":"Account Tree",
+    "CostCenter":"Cost Center",
+    "Series":"Series",
+    "DueDate":"Due Date",
+    "OtherData":"Other Data",
+    "Quantity":"Quantity"
+  },
+  "Customer":{
+    "Customer":"Customer",
+    "VatFileNumber":"Vat File Number",
+    "VatNumber":"Vat Number",
+    "PhoneNumber":"Phone Number",
+    "TelPhone":"TelPhone",
+    "Address":"Address",
+    "AccountTree":"Account Tree"
+  },
+  "Supplier":{
+    "Supplier":"Supplier",
+    "VatFileNumber":"Vat File Number",
+    "VatNumber":"Vat Number",
+    "PhoneNumber":"Phone Number",
+    "TelPhone":"TelPhone",
+    "Address":"Address",
+    "AccountTree":"Account Tree"
+  },
+  "AnalysisScreen":{
+    "AnalysisScreen":"Analysis Screen",
+    "AnalyScreen":"Screen",
+    "AccountTree":"Account Tree"
+  },
+  "Gl":{
+    "Gl":"Manual Gl",
+    "Currency":"Currency"
+  },
+  "Currency":{
+    "Currency":"Currency",
+    "ExRate":"ExRate"
+  },
+  "Treasury":{
+    "Treasury":"Treasury"
+  },
+  "Bank":{
+    "Bank":"Bank",
+    "Currency":"Currency"
+  },
+   "BankAccount":{
+    "BankAccount":"Bank Account",
+    "Bank":"Bank",
+    "AccountNumber":"Account Number"
+  },
+   "Expenses":{
+    "Expenses":"Expenses"
+  },
+  "Revenue":{
+    "Revenue":"Revenue"
+  },
+  "FixedAsset":{
+    "FixedAsset":"Fixed Asset"
+  }
+}
