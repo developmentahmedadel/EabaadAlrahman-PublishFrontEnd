@@ -72,5 +72,22 @@
   },
   "FixedAsset":{
     "FixedAsset":"Fixed Asset"
+  },
+  "CompanySettings":{
+    "CompanySettings":"Company Settings",
+    "SignatureImage":"Signature Image",
+    "Image":"Image",
+    "Email":"Email",
+    "Fax":"Fax",
+    "Phone2":"Phone2",
+    "Phone":"Phone",
+    "IndustrialLicenseNumber":"Industrial License",
+    "ChamberOfCommerceNumber":"Chamber Of Commerce",
+    "EconomicActivityCode":"Economic Activity Code",
+    "CustomsCode":"Customs Code",
+    "SocialInsuranceOfficeCode":"Insurance Office",
+    "VatNumber":"Vat",
+    "CommercialNumber":"Commercial",
+    "TaxID":"TaxID"
   }
 }

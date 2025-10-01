@@ -81,5 +81,22 @@
   },
   "FixedAsset":{
     "FixedAsset":"الاصول الثابتة"
+  },
+  "CompanySettings":{
+    "CompanySettings":"اعدادات الشركة",
+    "SignatureImage":"صورة التوقيع",
+    "Image":"شعار الشركة",
+    "Email":"البريد الالكتروني",
+    "Fax":"الفاكس",
+    "Phone2":"تليفون 2",
+    "Phone":"تليفون 1",
+    "IndustrialLicenseNumber":"رقم السجل الصناعي",
+    "ChamberOfCommerceNumber":"رقم السجل التجاري",
+    "EconomicActivityCode":"كود النشاط الاقتصادي",
+    "CustomsCode":"كود الجمارك",
+    "SocialInsuranceOfficeCode":"كود مكتب التأمينات الاجتماعية",
+    "VatNumber":"ضريبة القيمة المضافة",
+    "CommercialNumber":"السجل التجاري",
+    "TaxID":"الرقم الضريبي"
   }
 }
