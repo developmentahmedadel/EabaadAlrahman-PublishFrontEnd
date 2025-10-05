@@ -1,0 +1,1 @@
+import{Sb as i,Tb as s,qb as o,sc as r}from"./chunk-MVQPZUAI.js";var c=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-users"]],decls:2,vars:0,template:function(n,a){n&1&&(i(0,"p"),r(1,"users works!"),s())},encapsulation:2});let t=e;return t})();export{c as UsersComponent};

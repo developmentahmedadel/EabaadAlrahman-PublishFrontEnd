@@ -89,5 +89,8 @@
     "VatNumber":"Vat",
     "CommercialNumber":"Commercial",
     "TaxID":"TaxID"
+  },
+  "Role":{
+    "Role":"Role"
   }
 }

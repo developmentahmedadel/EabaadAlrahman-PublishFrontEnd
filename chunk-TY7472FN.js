@@ -1,0 +1,1 @@
+import{Sb as i,Tb as r,qb as o,sc as a}from"./chunk-MVQPZUAI.js";var s=(()=>{let t=class t{};t.\u0275fac=function(n){return new(n||t)},t.\u0275cmp=o({type:t,selectors:[["app-branch"]],decls:2,vars:0,template:function(n,p){n&1&&(i(0,"p"),a(1,"branch works!"),r())},encapsulation:2});let e=t;return e})();export{s as BranchComponent};
